@@ -1,2 +1,2 @@
 # scrummy
-Slack app to facilitate Agile/Scrum
+A repo to use while learning some of Go's nuances
